@@ -1,0 +1,75 @@
+.main{
+    /* border: 1px solid black; */
+    height: 75px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-image: linear-gradient(lawngreen, lawngreen);
+}
+.sign{
+    /* border: 2px solid green; */
+    height: 75px;
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+.sign > a{
+    font-size: 30px;
+    text-decoration: none;
+    color: rgb(249, 248, 248);
+    
+}
+.logo{
+    /* border: 2px solid green; */
+    height: 75px;
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.logo > img{
+    width: 200px; height: 58px;
+}
+
+.login{
+    /* border: 2px solid green; */
+    height: 75px;
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.login > a{
+    font-size: 30px;
+    text-decoration: none;
+    color: rgb(251, 251, 251);
+}
+.body{
+    text-align: center;
+    background-color: lawngreen;
+    color: white;
+}
+.imgg > img{
+    height: 700px;
+    width: 100%;
+    
+}
+.final{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 50
+}
+.final > table{
+    border: solid;
+    background-color: lawngreen;
+    width: 500px;
+    height: 100px;
+    align-items: center;
+}
